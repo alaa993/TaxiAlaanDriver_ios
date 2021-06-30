@@ -1,0 +1,221 @@
+
+// Kurdish
+
+
+
+"APPNAME" = "تاكسى الان";
+"ERRORMSG" = "تكايە دواتر هەوڵ بدە";
+"CONNECTION" = "دڵنيابوونەوە لە پەيوەندى بە ئينتەرنێەوە";
+"ERROR" = "هەڵە";
+"ALERT"= "ئاگادارى";
+"CALL" = "ئامێرەكەت تواناى پەيوەندى كردنى نييە";
+"ONLINE" = "چوونەژوورەوە بۆ ئەپڵيكەيشنەكە";
+"OFFLINE" = "هاتنەدەرەوە لە ئەپڵيكەيشنەكە";
+"STARTED" = "داگرە لەكاتى دەست پێكردن";
+//"ARRIVED" = "داگرە لەكاتى گەيشتن";
+"PICKEDUP" = "داگرە لەكاتى سەركەوتنى كەسەكە";
+"DROPPED" = "داگرە لەكاتى گەيشتن";
+"COMPLETED" = "گەشتەكە تەواوبوو";
+"CURRENCY" = "پارەدان بە دراوە";
+
+"CONFIRM PAYMENT" = "دابگره‌- كاتێ پاره‌كه‌ درا";
+//initial Page
+"Enter your mail ID" = "ئيمێڵەكەت تێخە";
+"or connect with social"="يان لە رێگەى تۆڕە كۆمەڵايەتييەكان";
+"Get moving with TaxiAlaan"="شتەكەت لەگەڵ تاكسى الان دەست پێبكە";
+
+
+//Email Controller
+"What's your email address?"="ئيمێڵەكەت چييە؟";
+"I need to create an account"="ێويستم بە دروستكردنى هەژمارێك هەيە";
+
+
+//Password Controller
+"I forgot my password"="ئايا تێپەڕەوشەت لەياد كردووە؟";
+"Welcome back, sign in to continue"="ۆ گەڕانەوەت، بڕۆ ژوورەوە و بەردەوام بە";
+
+//social media controller
+"Choose an account"="هەژمار هەڵبژێرە";
+"Google"="گوگڵ";
+"Facebook"="فەيسبوك";
+
+//Validate Controller
+"Enter your mobile number"="ژمارەى تەلەفۆن تێخە";
+"Enter Pin"="دبوس تێخە";
+"Validate"="دەستەڵات";
+"Reset"="دووبارە دانان";
+"Enter phone Number"="ژمارەى تەلەفۆن تێخە";
+
+//HELP
+"HELP"="هاوكارى ";
+"Help"="هاوكارى ";
+"TaxiAlaan Help"="هاوكارى تاكسى الان";
+"Our team person will contact you soon!"="ەكەمان هەر ئێستا پەيوەنديت پێ دەكەن";
+
+//RegisterController
+"Enter the details to register"="زانيارييەكان تێخە بۆ تۆماركردن";
+"E-mail"="ئيمێڵ";
+"Name"="ناو";
+"First name"="ناوى يەكەم";
+"Phone Number"="ژمارەى تەلەفۆن";
+"Password"="تێپەڕەوشە";
+"Confirm password"="دڵنيابوونەوە لە تێپەڕەوشە";
+"Last name"="ناوى كۆتايى";
+"IntroducerCode" = "کۆدی پێناس";
+//forget password
+"Enter the Details"="وردەكارييەكان تێخە";
+"Enter new password."="تێپەڕەوشە نوێيەكە تێخە";
+"Please confirm password."="دڵنيابوونەوە لە تێپەڕەوشەكە";
+
+
+//TripsController
+"Your Trips"="گەشتەكانم";
+"Past"="پێشوو";
+"Upcoming"="ئێستا";
+"Date"="رێكەوت";
+"Time"="كات";
+
+//History controller
+"Comments"="كۆمێنتەكان";
+"Payment method"="رێگەى پارەدان";
+"History"="رێكەوت";
+
+
+//Edit profile
+
+"Edit profile"="هەمواركردنى فايلى كەسى";
+"First"="يەكەم";
+"Last"="كۆتايى";
+
+"Service"="خزمەتگوزارى";
+"SAVE"="صرفه جویی";
+"CHANGE PASSWORD"="پاشەكەوت كردن";
+
+"Navigation"="گەشتەكە";
+
+"EARNINGS"="قازانجەكان";
+"Earnings"="قازانجەكان";
+"Total Earnings"="كۆى قازانجەكان";
+"Today Completed Target"="دڵنيابوونەوە لە ئامانجى ئەمڕۆ";
+"Amount"="بڕەكە";
+"Distance"="ماوە";
+"Time"="كات";
+
+
+"Awaiting approval"="چاوەڕوانى دڵنيابوونەوە";
+
+"Tax"="باج";
+"Base Fare"="كرێيە بنەڕەتييەكە";
+"Total"="كۆى گشتى";
+"SUBMIT"="ناردن";
+"RECEIVE PAYMENT"="وەرگرتنى پارەدان";
+"Distance Fare"="كرێى ماوەكە";
+"Service Charge"="تێچووى خزمەتگوزارييەكە";
+"ACCEPT"="قەبوڵ كردن";
+"REJECT"="رەتكردنەوە";
+"Name"="ناو";
+"GO ONLINE"="چوونەژوورەوە بۆ ئەپڵيكەيشن";
+"GO OFFLINE"="چوونەدەرەوە لە ئەپڵيكەيشنەكە";
+"INVOICE ID"="ژمارەى ليستەكە";
+"Schedule Request"="نەخشەى داواكردنەك";
+"REJECT"="رەتكراوە";
+"ARRIVED"="گەيشتن";
+"CANCEL"="رەتكردنەوە";
+"PICKEDUP"="سەركەوتن";
+"DROPPED"="هاتنەخوارەوە";
+"COMPLETED"="تەواوبوون";
+"ALERT"="ئاگادارى";
+"CONNECTION"="پەيوەندى";
+"OK"="بەڵێ ";
+"ERROR"="هەڵە";
+
+"ERRORMSG"="نامەكان";
+"Are you sure want to logout?"="ئايا حەز دەكەيت بچيە دەرەوە؟";
+"Alert!"="ئاگادارى";
+"NO"="نەخێر";
+"YES"="بەڵێ";
+"CHKNET"="وردبينى كردنى ئينتەرنێت";
+"Alert"="ئاگادارى";
+"User was not gave the mobile number"="كەسەكە ژمارەى تەلەفۆنى نەداوە";
+"CALL"="CALL";
+"Are you sure want to Call Emergency?"="ز دەكەيت پەيوەندى بە فرياكەوتن بكەيت؟";
+"Your device does not support calling"="رى خزمەتگوزارى پەيوەندى كردن ناكات";
+
+
+"Submit PIN"="ناردنى دبوس";
+"TOTAL NUMBER OF RIDES"="كۆى ئەو كەسانەى سەركەوتوون";
+"CANCELLED RIDES"="داواكارييەكان رەتبكەنەوە";
+"NO OF SCHEDULED RIDES"="سانەى گەشتەكانيان بە نەخشە نەكردووە";
+
+"REVENUE"="داهات";
+"Summary" = "كورته‌";
+
+"SUMMARY" = "كورته‌";
+"Share" = "به‌شداری كردن";
+"Logout" = "چوونه‌ده‌ره‌وه‌";
+"Settings"="چالاك كردن- دەستكارى كردن";
+"Change Language"="گۆڕينى زمان";
+"SUBMIT"="پابه‌ندبوون";
+"Select your language"="زبان خود را انتخاب کنید";
+"Enter OTP sent to your mobile number"="OTP را به شماره تلفن همراه خود ارسال کنید";
+"Resend OTP"="دوباره ارسال OTP";
+
+"Rate your trip with" = "سفر خود را با";
+"Discount" = "تخفیف";
+
+"CASH"="بە كاش";
+
+
+
+"Commission"="عموله";
+"RemainBalance"="بڵانسى ماوە";
+"Send Money"="ناردنى پارە";
+"Accounts Charge"="پڕكردنى ئەژمارەكە";
+"Balance Is Low!"="بڵانسەكە نزم بووەتەوە";
+"Transactions List"="ليستەى مامەڵەكان";
+"Withdraw Amount"="ڕاكێشانى بڕەپارەكە";
+"Successful Operation" ="پڕۆسەكە سەركەوتووبوو";
+"Request Has Been Sent Successfully"="داواكارييەكە بە سەركەوتوويى ناردرا";
+"Wallet Not Found!"="جزدانەكە بوونى نييە";
+"Balance Is Not Enough."="بڵانسەكە بەش ناكات";
+"Charge Code Applied Successfully"="هێماى پڕكردنەكە بەسەركەوتوويى جێبەجێ كرا";
+"Wallet"="جزدانى پارە";
+"Send"="ناردنى";
+
+
+"Please enter amount"="تكايە بڕەپارەكە تێخە";
+"Please enter  wallet id"="تكايە پێناسى جزدانەكە تێخە";
+"Please enter your code"="تكايە كۆدەكە تێخە";
+"Are you sure for send money to …?"="ئايا تۆ دڵنياى لە ناردنى پارەكە بۆ ...؟";
+"Invalid Charge Code"="كۆدى پڕكردنەكە هەڵەيە";
+"Balance"="بڵانس";
+"WITHDRAW"="ڕاكێشان";
+"Charge Code"="كۆدى پڕكردن";
+"TRIP"="گەشت";
+"REJECTED"="ڕەتكراوە";
+"Request"="داواكارى";
+
+//wallet
+"paywallet" = "دینار داشکان دەکرێت لە جزدانی ";
+"paywallet1" = " و بۆ تۆ دەنێردرێت.";
+"WalletId" = "پێناسى جزدانەكە";
+"Balance" = "بڵانس";
+
+//cash
+"paycash" = " دینار بە کاش لە ";
+"paycash" = " وەردەگیرێت.";
+
+//mix
+"paymix" = "دینار داشکان لە جزدانەکە دەکرێت و ";
+"paymix1" = "دینار کاش لە  ";
+"paymix2" = "وەردەگیرێت.";
+
+"Amount is Less"="بڕە پارەی تێخراو کەمترە لە نرخی گەشتەکە";
+
+"Pay_By_User_Wallet" = "پارەکە دراوە لە جزدانی بەکارهێنەر";
+"Pay_By_User_In_Cash" = "پارەکە بە کاش دراوە لەلایەن بەکارهێنەر";
+"Transfer_To_User_Wallet" = "بۆ جزدانی بەکارهێنەر ناردراوە";
+
+"Discount" = "داشکاندن";
+"Travel costs" = "تێچووی گەشتەکان";
+"optional" = "(اختياري)";

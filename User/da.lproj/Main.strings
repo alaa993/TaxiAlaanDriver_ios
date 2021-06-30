@@ -1,0 +1,231 @@
+
+/* Class = "UILabel"; text = "Glemt kodeord"; ObjectID = "0LJ-e1-pWw"; */
+"0LJ-e1-pWw.text" = "Glemt kodeord";
+
+/* Class = "UILabel"; text = "Tid"; ObjectID = "0fe-iZ-65l"; */
+"0fe-iZ-65l.text" = "Tid";
+
+/* Class = "UITextField"; placeholder = "name@example.com"; ObjectID = "0nR-ne-JeD"; */
+"0nR-ne-JeD.placeholder" = "name@example.com";
+
+/* Class = "UILabel"; text = "BetalingsmÂder"; ObjectID = "1iF-r2-qct"; */
+"1iF-r2-qct.text" = "BetalingsmÂder";
+
+/* Class = "UILabel"; text = "BekrÊft nyt kodeord"; ObjectID = "3Lr-iN-f6p"; */
+"3Lr-iN-f6p.text" = "BekrÊft nyt kodeord";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "4dQ-g7-49z"; */
+"4dQ-g7-49z.text" = "E-mail";
+
+/* Class = "UILabel"; text = "Indtast adgangskoden"; ObjectID = "4y9-eW-VPQ"; */
+"4y9-eW-VPQ.text" = "Indtast adgangskoden";
+
+/* Class = "UIButton"; normalTitle = "MODTAG BETALING"; ObjectID = "5Yb-bP-f7x"; */
+"5Yb-bP-f7x.normalTitle" = "MODTAG BETALING";
+
+/* Class = "UILabel"; text = "Tid"; ObjectID = "6BA-BI-enm"; */
+"6BA-BI-enm.text" = "Tid";
+
+/* Class = "UIButton"; normalTitle = "TAP WHEN ARRIVED"; ObjectID = "6g0-rW-Yf2"; */
+"6g0-rW-Yf2.normalTitle" = "TAP WHEN ARRIVED";
+
+/* Class = "UILabel"; text = "50"; ObjectID = "8fY-qP-Mig"; */
+"8fY-qP-Mig.text" = "50";
+
+/* Class = "UILabel"; text = "Navn"; ObjectID = "ALL-Xq-3ea"; */
+"ALL-Xq-3ea.text" = "Navn";
+
+/* Class = "UITextField"; placeholder = "Skriv dine kommentarer"; ObjectID = "AP1-Ti-oTl"; */
+"AP1-Ti-oTl.placeholder" = "Skriv dine kommentarer";
+
+/* Class = "UILabel"; text = "Indtast detaljerne for at registrere"; ObjectID = "Brq-J5-qGc"; */
+"Brq-J5-qGc.text" = "Indtast detaljerne for at registrere";
+
+/* Class = "UILabel"; text = "$ 100"; ObjectID = "CSV-Xt-pQI"; */
+"CSV-Xt-pQI.text" = "$ 100";
+
+/* Class = "UILabel"; text = "Dato"; ObjectID = "Cje-z4-rbB"; */
+"Cje-z4-rbB.text" = "Dato";
+
+/* Class = "UILabel"; text = "Kodeord"; ObjectID = "Doq-Fn-eau"; */
+"Doq-Fn-eau.text" = "Kodeord";
+
+/* Class = "UILabel"; text = "BekrÊft venligst kodeord."; ObjectID = "DqS-US-H6l"; */
+"DqS-US-H6l.text" = "BekrÊft venligst kodeord.";
+
+/* Class = "UITextField"; placeholder = "Fornavn"; ObjectID = "GHR-GC-oQ1"; */
+"GHR-GC-oQ1.placeholder" = "Fornavn";
+
+/* Class = "UILabel"; text = "Beløb"; ObjectID = "IJ1-jY-JqV"; */
+"IJ1-jY-JqV.text" = "Beløb";
+
+/* Class = "UIButton"; normalTitle = "Skift kodeord"; ObjectID = "JdY-yF-imy"; */
+"JdY-yF-imy.normalTitle" = "Skift kodeord";
+
+/* Class = "UILabel"; text = "Navigation"; ObjectID = "Lfl-CU-LH6"; */
+"Lfl-CU-LH6.text" = "Navigation";
+
+/* Class = "UILabel"; text = "Skriv din e-mail adresse"; ObjectID = "OJd-fI-ovd"; */
+"OJd-fI-ovd.text" = "Skriv din e-mail adresse";
+
+/* Class = "UILabel"; text = "KVITTERING"; ObjectID = "OiA-kQ-xEG"; */
+"OiA-kQ-xEG.text" = "KVITTERING";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "P1U-Qf-mFc"; */
+"P1U-Qf-mFc.text" = "Facebook";
+
+/* Class = "UILabel"; text = "Velkommen tilbage, log pÂ for at fortsÊtte"; ObjectID = "P26-EY-6j5"; */
+"P26-EY-6j5.text" = "Velkommen tilbage, log pÂ for at fortsÊtte";
+
+/* Class = "UILabel"; text = "Choose an account"; ObjectID = "Po0-FJ-ZZ5"; */
+"Po0-FJ-ZZ5.text" = "Choose an account";
+
+/* Class = "UIButton"; normalTitle = "Tidligere"; ObjectID = "RkX-6R-Qa5"; */
+"RkX-6R-Qa5.normalTitle" = "Tidligere";
+
+/* Class = "UILabel"; text = "Skriv nuvÊrende kodeord"; ObjectID = "TCM-sK-FUk"; */
+"TCM-sK-FUk.text" = "Skriv nuvÊrende kodeord";
+
+/* Class = "UILabel"; text = "Jeg vil oprette en konto"; ObjectID = "Ubc-vB-QOH"; */
+"Ubc-vB-QOH.text" = "Jeg vil oprette en konto";
+
+/* Class = "UILabel"; text = "Telefonnummer"; ObjectID = "W41-4a-Erz"; */
+"W41-4a-Erz.text" = "Telefonnummer";
+
+/* Class = "UILabel"; text = "BekrÊft venligst kodeord"; ObjectID = "WTJ-ev-wVW"; */
+"WTJ-ev-wVW.text" = "BekrÊft venligst kodeord";
+
+/* Class = "UILabel"; text = "$4.00"; ObjectID = "WrZ-cm-Ik5"; */
+"WrZ-cm-Ik5.text" = "$4.00";
+
+/* Class = "UILabel"; text = "Efternavn"; ObjectID = "XQR-hJ-9oG"; */
+"XQR-hJ-9oG.text" = "Efternavn";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "YDX-1x-uC2"; */
+"YDX-1x-uC2.text" = "Total";
+
+/* Class = "UILabel"; text = "Dine ture"; ObjectID = "ZnB-hs-myx"; */
+"ZnB-hs-myx.text" = "Dine ture";
+
+/* Class = "UILabel"; text = "Indtast adgangskoden"; ObjectID = "bgm-Ph-xMn"; */
+"bgm-Ph-xMn.text" = "Indtast adgangskoden";
+
+/* Class = "UILabel"; text = "Google"; ObjectID = "cg3-XT-5n7"; */
+"cg3-XT-5n7.text" = "Google";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ct7-uU-KLy"; */
+"ct7-uU-KLy.text" = "Name";
+
+/* Class = "UILabel"; text = "Kommentarer"; ObjectID = "fe8-Ij-igH"; */
+"fe8-Ij-igH.text" = "Kommentarer";
+
+/* Class = "UILabel"; text = "Pris"; ObjectID = "gcN-yB-p5h"; */
+"gcN-yB-p5h.text" = "Pris";
+
+/* Class = "UIButton"; normalTitle = "Skift kodeord"; ObjectID = "hPI-pH-ue5"; */
+"hPI-pH-ue5.normalTitle" = "Skift kodeord";
+
+/* Class = "UILabel"; text = "I dag afsluttet mål"; ObjectID = "hWX-K9-d9Y"; */
+"hWX-K9-d9Y.text" = "I dag afsluttet mål";
+
+/* Class = "UILabel"; text = "$15.00"; ObjectID = "hvf-ke-R9r"; */
+"hvf-ke-R9r.text" = "$15.00";
+
+/* Class = "UILabel"; text = "Skriv nyt kodeord"; ObjectID = "iHt-g5-P3V"; */
+"iHt-g5-P3V.text" = "Skriv nyt kodeord";
+
+/* Class = "UIButton"; normalTitle = "ACCEPTER"; ObjectID = "iXe-DE-XTR"; */
+"iXe-DE-XTR.normalTitle" = "ACCEPTER";
+
+/* Class = "UITextField"; placeholder = "skriv dit kodeord"; ObjectID = "jLp-6G-Tls"; */
+"jLp-6G-Tls.placeholder" = "skriv dit kodeord";
+
+/* Class = "UILabel"; text = "Moms"; ObjectID = "jOn-0i-RD0"; */
+"jOn-0i-RD0.text" = "Moms";
+
+/* Class = "UIButton"; normalTitle = "AFVIS"; ObjectID = "jyO-mu-87W"; */
+"jyO-mu-87W.normalTitle" = "AFVIS";
+
+/* Class = "UITextField"; placeholder = "0987654321"; ObjectID = "k6Q-KQ-lO9"; */
+"k6Q-KQ-lO9.placeholder" = "0987654321";
+
+/* Class = "UILabel"; text = "Telefonnummer"; ObjectID = "kU3-GA-7hm"; */
+"kU3-GA-7hm.text" = "Telefonnummer";
+
+/* Class = "UITextField"; placeholder = "Efternavn"; ObjectID = "kh6-mk-mJG"; */
+"kh6-mk-mJG.placeholder" = "Efternavn";
+
+/* Class = "UITextField"; placeholder = "0987654321"; ObjectID = "kxE-HA-gEh"; */
+"kxE-HA-gEh.placeholder" = "0987654321";
+
+/* Class = "UILabel"; text = "Fornavn"; ObjectID = "mgz-6V-1wj"; */
+"mgz-6V-1wj.text" = "Fornavn";
+
+/* Class = "UIButton"; normalTitle = "GO ONLINE"; ObjectID = "mtp-fY-SKI"; */
+"mtp-fY-SKI.normalTitle" = "GO ONLINE";
+
+/* Class = "UILabel"; text = "Rediger Profil"; ObjectID = "mx0-VO-DUf"; */
+"mx0-VO-DUf.text" = "Rediger Profil";
+
+/* Class = "UITextField"; placeholder = "*************"; ObjectID = "nAI-Fs-wdc"; */
+"nAI-Fs-wdc.placeholder" = "*************";
+
+/* Class = "UILabel"; text = "Brug habil til transport"; ObjectID = "o61-SI-TRu"; */
+"o61-SI-TRu.text" = "Brug habil til transport";
+
+/* Class = "UILabel"; text = "Skriv nyt kodeord."; ObjectID = "oZS-5A-GN2"; */
+"oZS-5A-GN2.text" = "Skriv nyt kodeord.";
+
+/* Class = "UILabel"; text = "Eller log pÂ med Sociale Medier"; ObjectID = "pss-oW-xm1"; */
+"pss-oW-xm1.text" = "Eller log pÂ med Sociale Medier";
+
+/* Class = "UILabel"; text = "Historik"; ObjectID = "qGf-bx-9Nj"; */
+"qGf-bx-9Nj.text" = "Historik";
+
+/* Class = "UILabel"; text = "Hvad er din e-mail adresse?"; ObjectID = "qHm-xn-VPH"; */
+"qHm-xn-VPH.text" = "Hvad er din e-mail adresse?";
+
+/* Class = "UIButton"; normalTitle = "Kommende"; ObjectID = "qeg-X4-DUD"; */
+"qeg-X4-DUD.normalTitle" = "Kommende";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "rMr-76-Hhh"; */
+"rMr-76-Hhh.text" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "Vil du Êndre kodeord?"; ObjectID = "ret-VC-7tW"; */
+"ret-VC-7tW.normalTitle" = "Vil du Êndre kodeord?";
+
+/* Class = "UILabel"; text = "Afstand"; ObjectID = "rfB-gY-d3b"; */
+"rfB-gY-d3b.text" = "Afstand";
+
+/* Class = "UILabel"; text = "Samlet indtjening"; ObjectID = "srC-5q-2kK"; */
+"srC-5q-2kK.text" = "Samlet indtjening";
+
+/* Class = "UILabel"; text = "Ingen ture til tÂdighed"; ObjectID = "stZ-pG-fbv"; */
+"stZ-pG-fbv.text" = "Ingen ture til tÂdighed";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "tjL-Ij-28z"; */
+"tjL-Ij-28z.text" = "E-mail";
+
+/* Class = "UILabel"; text = "Venter pÂ godkendelse"; ObjectID = "vK0-80-Dwj"; */
+"vK0-80-Dwj.text" = "Venter pÂ godkendelse";
+
+/* Class = "UIButton"; normalTitle = "GEM"; ObjectID = "vuT-wB-Bor"; */
+"vuT-wB-Bor.normalTitle" = "GEM";
+
+/* Class = "UITextField"; placeholder = "name@example.com"; ObjectID = "wEz-CK-Yce"; */
+"wEz-CK-Yce.placeholder" = "name@example.com";
+
+/* Class = "UILabel"; text = "$10.00"; ObjectID = "wgS-Xs-ahW"; */
+"wgS-Xs-ahW.text" = "$10.00";
+
+/* Class = "UITextField"; placeholder = "**************"; ObjectID = "wyQ-V2-WE6"; */
+"wyQ-V2-WE6.placeholder" = "**************";
+
+/* Class = "UIButton"; normalTitle = "INDSEND"; ObjectID = "y4B-gu-u3N"; */
+"y4B-gu-u3N.normalTitle" = "INDSEND";
+
+/* Class = "UILabel"; text = "Indtjening"; ObjectID = "yLC-mQ-K5I"; */
+"yLC-mQ-K5I.text" = "Indtjening";
+
+/* Class = "UIButton"; normalTitle = "Annuller tur"; ObjectID = "yWL-Rf-7xJ"; */
+"yWL-Rf-7xJ.normalTitle" = "Annuller tur";

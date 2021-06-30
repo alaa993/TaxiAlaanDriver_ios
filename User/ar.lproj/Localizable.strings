@@ -1,0 +1,216 @@
+
+
+// arabic
+
+"APPNAME" = "تاكسي الان";
+"ERRORMSG" = "الرجاء المحاولة لاحقا";
+"CONNECTION" = "التأكد من الإتصال بالإنترنت";
+"ERROR" = "خطأ";
+"ALERT"= "تنبيه";
+"CALL" = "جهازك غير قادر على الإتصال";
+"ONLINE" = "الدخول للتطبيق";
+"OFFLINE" = "الخروج من التطبيق";
+"STARTED" = "انقر عند البدء";
+"ARRIVED" = "انقر عند الوصول";
+"PICKEDUP" = "انقر عند صعود الزبون";
+"DROPPED" = "انقر عند الوصول";
+"COMPLETED" = "اكتملت الرحلة";
+"CURRENCY" = "الدفع بعملة";
+
+"CONFIRM PAYMENT" = "اضغط عند الدفع";
+//initial Page
+"Enter your mail ID" = "ادخل بريدك الإلكتروني";
+"or connect with social"="أو عن طريق التواصل الاجتماعي";
+"Get moving with TaxiAlaan"="ابدأ رحلتك مع تاكسي الان";
+
+
+//Email Controller
+"What's your email address?"="ما هو بريدك الإلكتروني؟";
+"I need to create an account"="احتاج لإنشاء حساب";
+
+
+//Password Controller
+"I forgot my password"="هل نسيت كلمة المرور؟";
+"Welcome back, sign in to continue"="مرحبا بعودتك، ادخل واستمر";
+
+//social media controller
+"Choose an account"="اختر الحساب";
+"Google"="جوجل";
+"Facebook"="فيس بوك";
+
+//Validate Controller
+"Enter your mobile number"="ادخل رقم الهاتف";
+"Enter Pin"="ادخل الدبوس";
+"Validate"="الصلاحية";
+"Reset"="اعادة تعيين";
+"Enter phone Number"="ادخل رقم الهاتف";
+
+//HELP
+"HELP"="مساعدة";
+"Help"="مساعدة";
+"TaxiAlaan Help"="مساعدة تاكسي الآن";
+"Our team person will contact you soon!"="سيتواصل فريقنا معك حالا";
+
+//RegisterController
+"Enter the details to register"="ادخل المعلومات للتسجيل";
+"E-mail"="البريد الإلكتروني";
+"Name"="الاسم";
+"First name"="الاسم الاول";
+"Phone Number"="رقم الهاتف";
+"Password"="كلمة المرور";
+"Confirm password"="تأكيد كلمة المرور";
+"Last name"="الاسم الاخير";
+"IntroducerCode" = "كود التعريف";
+//forget password
+"Enter the Details"="ادخل التفاصيل";
+"Enter new password."="ادخل كلمة المرور الجديدة";
+"Please confirm password."="تأكيد كلمة المرور";
+
+
+//TripsController
+"Your Trips"="رحلاتي";
+"Past"="السابقة";
+"Upcoming"="الحالية";
+"Date"="التاريخ";
+"Time"="الوقت";
+
+//History controller
+"Comments"="التعليقات";
+"Payment method"="طريقة الدفع";
+"History"="التاريخ";
+
+
+//Edit profile
+
+"Edit profile"="تعديل الملف الشخصي";
+"First"="الاول";
+"Last"="الاخير";
+
+"Service"="الخدمة";
+"SAVE"="حفظ";
+"CHANGE PASSWORD"="حفظ";
+
+"Navigation"="الرحلة";
+
+"EARNINGS"="الارباح";
+"Earnings"="الارباح";
+"Total Earnings"="مجموع الارباح";
+"Today Completed Target"="تحقق هدف اليوم";
+"Amount"="الكمية";
+"Distance"="المسافة";
+"Time"="الوقت";
+
+
+"Awaiting approval"="انتظار التأكيد";
+
+"Tax"="ضريبة";
+"Base Fare"="الاجرة الأساسية";
+"Total"="المجموع";
+"SUBMIT"="ارسال";
+"RECEIVE PAYMENT"="تسلم الدفع";
+"Distance Fare"="اجرة المسافة";
+"Service Charge"="تكلفة الخدمة";
+"ACCEPT"="قبول";
+"REJECT"="رفض";
+"Name"="الاسم";
+"GO ONLINE"="دخول التطبيق";
+"GO OFFLINE"="الخروج من التطبيق";
+"INVOICE ID"="رقم القائمة";
+"Schedule Request"="جدول الطلب";
+"REJECT"="مرفوض";
+"ARRIVED"="وصول";
+"CANCEL"="الغاء";
+"PICKEDUP"="صعود";
+"DROPPED"="نزول";
+"ARRIVED"="وصول";
+"COMPLETED"="اكتمال";
+"ALERT"="تنبيه";
+"CONNECTION"="متصل";
+"OK"="حسنا";
+"ERROR"="خطأ";
+
+"ERRORMSG"="الرسائل";
+"Are you sure want to logout?"="هل ترغب فعلا بالخروج؟";
+"Alert!"="تنبيه";
+"NO"="كلا";
+"YES"="نعم";
+"CHKNET"="تدقيق الإنترنت";
+"Alert"="تنبيه";
+"User was not gave the mobile number"="الزبون لم يعطي رقم هاتفه";
+"CALL"="CALL";
+"Are you sure want to Call Emergency?"="هل ترغب فعلا بالإتصال بالطواريء؟";
+"Your device does not support calling"="هاتفك لا يدعم خدمة الإتصال";
+
+
+"Submit PIN"="ارسال الدبوس";
+"TOTAL NUMBER OF RIDES"="مجموع الركاب";
+"CANCELLED RIDES"="الغوا الطلبات";
+"NO OF SCHEDULED RIDES"="الذين لم يجدولوا رحلاتهم";
+"REVENUE"="ايرادات";
+
+"Share" = "شارك";
+"Summary" = "ملخص";
+"Logout" = "الخروج";
+"SUMMARY" = "ملخص";
+"Settings"="الإعدادات";
+"SUBMIT"="ارسل";
+"Change Language"="غير اللغة";
+"Select your language"="اختر لغتك";
+"Enter OTP sent to your mobile number"="أدخل OTP المرسلة إلى رقم هاتفك المحمول";
+"Resend OTP"="إعادة إرسال OTP";
+
+"Discount" = "خصم";
+"Rate your trip with" = "قيم رحلتك مع";
+"CASH"="نقدا";
+
+"Commission"="الرصيد المتبقي";
+"RemainBalance"="الرصيد المتبقي";
+"Send Money"= "إرسال نقود";
+"Accounts Charge"="شحن الحساب";
+"Balance Is Low!"="الرصيد منخفض!";
+"Transactions List"="قائمة المعاملات";
+"Withdraw Amount"="سحب المبلغ";
+"Successful Operation" = "عملية ناجحة";
+"Request Has Been Sent Successfully"="تم تطبيق رمز الشحن بنجاح";
+"Wallet Not Found!"="محفظة غير موجود";
+"Balance Is Not Enough."="الرصيد ليس كافيًا";
+"Charge Code Applied Successfully"="تم تطبيق رمز الشحن بنجاح";
+"Wallet"= "محفظة نقود";
+"Send"="إرسال";
+
+"Please enter amount"="الرجاء إدخال المبلغ";
+"Please enter  wallet id"="الرجاء إدخال معرف المحفظة";
+"Please enter your code"="من فضلك ادخل الكود";
+"Are you sure for send money to …?"="هل أنت متأكد من إرسال الأموال إلى ...؟";
+"Invalid Charge Code"="رمز الشحن غير صالح";
+"Balance"="رصيد";
+"WITHDRAW"="سحب";
+
+"Charge Code"="رمز الشحن";
+"TRIP"="رحلة";
+"REJECTED"="مرفوض";
+"Request"="طلب";
+//payment
+"paywallet" = " سيتم خصم";
+"paywallet1" = "دينار من محفظة";
+"paywallet1" = "وسيتم تحويلها لك";
+"WalletId" = "معرف المحفظة";
+"Balance" = "رصيد";
+  ///cash
+"paycash" = "دينار تم استلامها نقداً من ";
+
+//mix
+"paymix" = " سيتم خصم";
+"paymix1" = "دينار من المحفظة وسيتم استلام";
+"paymix2" = "نقداً من ";
+
+"Amount is Less"="المبلغ المدخل هو اقل من سعر الرحلة";
+
+"Pay_By_User_Wallet" = "تم الدفع من محفظة المستخدم";
+"Pay_By_User_In_Cash" = "تم الدفع من المستخدم نقداً";
+"Transfer_To_User_Wallet" = "تم التحويل الى محفظة ";
+
+"Travel costs" ="تكلفة الرحلات";
+"optional" = "(اختياري)";
+
+
